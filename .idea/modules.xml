@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Random_Numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Random_Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Random_Numbers.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Random_Numbers.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Random_Numbers.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Random_Numbers.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Random_Numbers.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Random_Numbers.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Random_Numbers.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Random_Numbers.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
